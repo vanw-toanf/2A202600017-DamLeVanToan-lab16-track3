@@ -1,0 +1,1602 @@
+[
+  {
+    "qid": "hp3",
+    "difficulty": "easy",
+    "question": "What instrument did the composer of The Four Seasons mainly play?",
+    "gold_answer": "violin",
+    "context": [
+      {
+        "title": "The Four Seasons",
+        "text": "The Four Seasons is a group of violin concertos by Antonio Vivaldi."
+      },
+      {
+        "title": "Antonio Vivaldi",
+        "text": "Antonio Vivaldi was an Italian Baroque composer and virtuoso violinist."
+      }
+    ]
+  },
+  {
+    "qid": "hp4",
+    "difficulty": "medium",
+    "question": "Which ocean borders the country whose capital is Lima?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Lima",
+        "text": "Lima is the capital city of Peru."
+      },
+      {
+        "title": "Peru",
+        "text": "Peru borders the Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp5",
+    "difficulty": "easy",
+    "question": "What field did the scientist who proposed the three laws of motion study in addition to physics?",
+    "gold_answer": "mathematics",
+    "context": [
+      {
+        "title": "Isaac Newton",
+        "text": "Isaac Newton formulated the laws of motion and was a physicist and mathematician."
+      },
+      {
+        "title": "Laws of motion",
+        "text": "The three laws of motion are attributed to Isaac Newton."
+      }
+    ]
+  },
+  {
+    "qid": "hp6",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Petra is located?",
+    "gold_answer": "Dead Sea",
+    "context": [
+      {
+        "title": "Petra",
+        "text": "Petra is a historical city in Jordan."
+      },
+      {
+        "title": "Jordan",
+        "text": "Jordan borders the Dead Sea to the west."
+      }
+    ]
+  },
+  {
+    "qid": "hp7",
+    "difficulty": "medium",
+    "question": "Which language family does the primary language of Brazil belong to?",
+    "gold_answer": "Romance",
+    "context": [
+      {
+        "title": "Brazil",
+        "text": "The official language of Brazil is Portuguese."
+      },
+      {
+        "title": "Portuguese language",
+        "text": "Portuguese is a Romance language."
+      }
+    ]
+  },
+  {
+    "qid": "hp8",
+    "difficulty": "hard",
+    "question": "Which mountain range contains the highest mountain in the country whose capital is Kathmandu?",
+    "gold_answer": "Himalayas",
+    "context": [
+      {
+        "title": "Kathmandu",
+        "text": "Kathmandu is the capital city of Nepal."
+      },
+      {
+        "title": "Nepal",
+        "text": "Mount Everest, the highest mountain in Nepal, is part of the Himalayas."
+      }
+    ]
+  },
+  {
+    "qid": "hp9",
+    "difficulty": "medium",
+    "question": "Which Dutch post-impressionist painter, known for 'The Starry Night', was born in Groot Zundert?",
+    "gold_answer": "Vincent van Gogh",
+    "context": [
+      {
+        "title": "Vincent van Gogh",
+        "text": "Vincent van Gogh was a Dutch post-impressionist painter who is among the most famous and influential figures in the history of Western art."
+      },
+      {
+        "title": "Groot Zundert",
+        "text": "Groot Zundert is a town in the Netherlands where Vincent van Gogh was born in 1853."
+      }
+    ]
+  },
+  {
+    "qid": "hp10",
+    "difficulty": "medium",
+    "question": "What country is the birthplace of the author of 'The Alchemist'?",
+    "gold_answer": "Brazil",
+    "context": [
+      {
+        "title": "The Alchemist (novel)",
+        "text": "The Alchemist is a novel by Brazilian author Paulo Coelho that was first published in 1988."
+      },
+      {
+        "title": "Paulo Coelho",
+        "text": "Paulo Coelho is a Brazilian lyricist and novelist, best known for his novel The Alchemist."
+      }
+    ]
+  },
+  {
+    "qid": "hp11",
+    "difficulty": "easy",
+    "question": "What is the capital of the country where the Eiffel Tower is located?",
+    "gold_answer": "Paris",
+    "context": [
+      {
+        "title": "Eiffel Tower",
+        "text": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France."
+      },
+      {
+        "title": "France",
+        "text": "France is a country in Western Europe whose capital is Paris."
+      }
+    ]
+  },
+  {
+    "qid": "hp12",
+    "difficulty": "medium",
+    "question": "What was the nationality of the scientist who discovered radium?",
+    "gold_answer": "Polish",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie was a Polish and naturalized-French physicist and chemist who conducted pioneering research on radioactivity."
+      },
+      {
+        "title": "Radium",
+        "text": "Radium was discovered by Marie Curie and her husband Pierre Curie in 1898."
+      }
+    ]
+  },
+  {
+    "qid": "hp13",
+    "difficulty": "hard",
+    "question": "Which planet is the largest in the solar system where the Great Red Spot is located?",
+    "gold_answer": "Jupiter",
+    "context": [
+      {
+        "title": "Great Red Spot",
+        "text": "The Great Red Spot is a persistent high-pressure region in the atmosphere of Jupiter."
+      },
+      {
+        "title": "Jupiter",
+        "text": "Jupiter is the fifth planet from the Sun and the largest in the Solar System."
+      }
+    ]
+  },
+  {
+    "qid": "hp14",
+    "difficulty": "medium",
+    "question": "Who was the lead singer of the band that recorded 'Bohemian Rhapsody'?",
+    "gold_answer": "Freddie Mercury",
+    "context": [
+      {
+        "title": "Bohemian Rhapsody",
+        "text": "'Bohemian Rhapsody' is a song by the British rock band Queen."
+      },
+      {
+        "title": "Queen (band)",
+        "text": "Queen are a British rock band formed in London in 1970; their classic line-up was Freddie Mercury, Brian May, Roger Taylor and John Deacon."
+      }
+    ]
+  },
+  {
+    "qid": "hp15",
+    "difficulty": "easy",
+    "question": "In which city is the headquarters of the United Nations located?",
+    "gold_answer": "New York City",
+    "context": [
+      {
+        "title": "United Nations",
+        "text": "The United Nations is an intergovernmental organization whose headquarters is in New York City."
+      },
+      {
+        "title": "New York City",
+        "text": "New York City is the most populous city in the United States and home to the UN headquarters."
+      }
+    ]
+  },
+  {
+    "qid": "hp16",
+    "difficulty": "medium",
+    "question": "What is the name of the ship that brought the Pilgrims to America in 1620?",
+    "gold_answer": "Mayflower",
+    "context": [
+      {
+        "title": "Pilgrims (Plymouth Colony)",
+        "text": "The Pilgrims were the English settlers who came to North America on the Mayflower."
+      },
+      {
+        "title": "Mayflower",
+        "text": "The Mayflower was an English ship that transported the first English Puritans, known today as the Pilgrims, from Plymouth to the New World in 1620."
+      }
+    ]
+  },
+  {
+    "qid": "hp17",
+    "difficulty": "hard",
+    "question": "Which mountain is the highest in Africa?",
+    "gold_answer": "Mount Kilimanjaro",
+    "context": [
+      {
+        "title": "Mount Kilimanjaro",
+        "text": "Mount Kilimanjaro is a dormant volcano in Tanzania and the highest mountain in Africa."
+      },
+      {
+        "title": "Africa",
+        "text": "Africa is the world's second-largest and second-most populous continent; its highest point is Mount Kilimanjaro."
+      }
+    ]
+  },
+  {
+    "qid": "hp18",
+    "difficulty": "medium",
+    "question": "What is the chemical symbol for the element that makes up about 78% of Earth's atmosphere?",
+    "gold_answer": "N",
+    "context": [
+      {
+        "title": "Atmosphere of Earth",
+        "text": "The Earth's atmosphere is composed of about 78% nitrogen and 21% oxygen."
+      },
+      {
+        "title": "Nitrogen",
+        "text": "Nitrogen is a chemical element with the symbol N and atomic number 7."
+      }
+    ]
+  },
+  {
+    "qid": "hp19",
+    "difficulty": "easy",
+    "question": "Who painted the 'Mona Lisa'?",
+    "gold_answer": "Leonardo da Vinci",
+    "context": [
+      {
+        "title": "Mona Lisa",
+        "text": "The Mona Lisa is a half-length portrait painting by Italian artist Leonardo da Vinci."
+      },
+      {
+        "title": "Leonardo da Vinci",
+        "text": "Leonardo da Vinci was an Italian polymath of the High Renaissance who was active as a painter, draughtsman, engineer, scientist, theorist, sculptor and architect."
+      }
+    ]
+  },
+  {
+    "qid": "hp20",
+    "difficulty": "medium",
+    "question": "What is the largest desert in the world?",
+    "gold_answer": "Antarctic Desert",
+    "context": [
+      {
+        "title": "Desert",
+        "text": "A desert is a barren area of landscape where little precipitation occurs and, consequently, living conditions are hostile for plant and animal life."
+      },
+      {
+        "title": "Antarctic Desert",
+        "text": "The Antarctic Desert is the largest desert in the world, covering the entire continent of Antarctica."
+      }
+    ]
+  },
+  {
+    "qid": "hp19",
+    "difficulty": "medium",
+    "question": "Which country is home to the Great Barrier Reef?",
+    "gold_answer": "Australia",
+    "context": [
+      {
+        "title": "Great Barrier Reef",
+        "text": "The Great Barrier Reef is the world's largest coral reef system composed of over 2,900 individual reefs and 900 islands stretching for over 2,300 kilometres over an area of approximately 344,400 square kilometres."
+      },
+      {
+        "title": "Australia",
+        "text": "Australia is a sovereign country comprising the mainland of the Australian continent, the island of Tasmania, and numerous smaller islands. It is home to the Great Barrier Reef."
+      }
+    ]
+  },
+  {
+    "qid": "hp20",
+    "difficulty": "easy",
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "gold_answer": "Marie Curie",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie was a Polish and naturalized-French physicist and chemist who conducted pioneering research on radioactivity. She was the first woman to win a Nobel Prize."
+      },
+      {
+        "title": "Nobel Prize",
+        "text": "The Nobel Prize is a set of five annual international awards bestowed in several categories by Swedish and Norwegian institutions in recognition of academic, cultural, or scientific advances."
+      }
+    ]
+  },
+  {
+    "qid": "hp21",
+    "difficulty": "medium",
+    "question": "What is the smallest country in the world by area?",
+    "gold_answer": "Vatican City",
+    "context": [
+      {
+        "title": "Vatican City",
+        "text": "Vatican City, an independent city-state enclaved within Rome, Italy, is the smallest country in the world by area."
+      },
+      {
+        "title": "Country",
+        "text": "A country is a distinct part of the world, such as a state, nation, or other political entity."
+      }
+    ]
+  },
+  {
+    "qid": "hp22",
+    "difficulty": "easy",
+    "question": "Who wrote '1984'?",
+    "gold_answer": "George Orwell",
+    "context": [
+      {
+        "title": "1984 (novel)",
+        "text": "1984 is a dystopian social science fiction novel and cautionary tale written by English writer George Orwell."
+      },
+      {
+        "title": "George Orwell",
+        "text": "George Orwell was an English novelist, essayist, journalist, and critic."
+      }
+    ]
+  },
+  {
+    "qid": "hp23",
+    "difficulty": "medium",
+    "question": "What is the most common gas in the Earth's atmosphere?",
+    "gold_answer": "Nitrogen",
+    "context": [
+      {
+        "title": "Atmosphere of Earth",
+        "text": "The atmosphere of Earth is the layer of gases, commonly known as air, retained by Earth's gravity, surrounding the planet Earth and forming its planetary atmosphere."
+      },
+      {
+        "title": "Nitrogen",
+        "text": "Nitrogen is the most abundant gas in Earth's atmosphere, making up about 78% of the air overall."
+      }
+    ]
+  },
+  {
+    "qid": "hp24",
+    "difficulty": "hard",
+    "question": "Which scientist developed the theory of general relativity?",
+    "gold_answer": "Albert Einstein",
+    "context": [
+      {
+        "title": "Albert Einstein",
+        "text": "Albert Einstein was a German-born theoretical physicist, widely acknowledged to be one of the greatest and most influential physicists of all time."
+      },
+      {
+        "title": "General relativity",
+        "text": "General relativity, also known as the general theory of relativity, is the geometric theory of gravitation published by Albert Einstein in 1915."
+      }
+    ]
+  },
+  {
+    "qid": "hp25",
+    "difficulty": "medium",
+    "question": "What is the capital of Canada?",
+    "gold_answer": "Ottawa",
+    "context": [
+      {
+        "title": "Canada",
+        "text": "Canada is a country in North America. Its ten provinces and three territories extend from the Atlantic Ocean to the Pacific Ocean and northward into the Arctic Ocean."
+      },
+      {
+        "title": "Ottawa",
+        "text": "Ottawa is the capital city of Canada."
+      }
+    ]
+  },
+  {
+    "qid": "hp26",
+    "difficulty": "easy",
+    "question": "Who is the author of 'Harry Potter'?",
+    "gold_answer": "J.K. Rowling",
+    "context": [
+      {
+        "title": "Harry Potter",
+        "text": "Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling."
+      },
+      {
+        "title": "J.K. Rowling",
+        "text": "J.K. Rowling is a British author, philanthropist, film producer, and screenwriter."
+      }
+    ]
+  },
+  {
+    "qid": "hp27",
+    "difficulty": "medium",
+    "question": "What is the largest island in the world?",
+    "gold_answer": "Greenland",
+    "context": [
+      {
+        "title": "Greenland",
+        "text": "Greenland is the world's largest island, located between the Arctic and Atlantic oceans, east of the Canadian Arctic Archipelago."
+      },
+      {
+        "title": "Island",
+        "text": "An island or isle is any piece of subcontinental land that is surrounded by water."
+      }
+    ]
+  },
+  {
+    "qid": "hp28",
+    "difficulty": "hard",
+    "question": "Which element has the symbol 'Au'?",
+    "gold_answer": "Gold",
+    "context": [
+      {
+        "title": "Gold",
+        "text": "Gold is a chemical element with the symbol Au and atomic number 79."
+      },
+      {
+        "title": "Chemical element",
+        "text": "A chemical element is a chemical substance that cannot be broken down into other substances by chemical means."
+      }
+    ]
+  },
+  {
+    "qid": "hp29",
+    "difficulty": "medium",
+    "question": "Where is the Amazon River located, which is known as the longest river in South America?",
+    "gold_answer": "South America",
+    "context": [
+      {
+        "title": "Amazon River",
+        "text": "The Amazon River is longest river in South America."
+      },
+      {
+        "title": "South America",
+        "text": "South America is home to the Amazon River."
+      }
+    ]
+  },
+  {
+    "qid": "hp30",
+    "difficulty": "medium",
+    "question": "Where is the Mount Everest located, which is known as the highest mountain in the world?",
+    "gold_answer": "Himalayas",
+    "context": [
+      {
+        "title": "Mount Everest",
+        "text": "The Mount Everest is highest mountain in the world."
+      },
+      {
+        "title": "Himalayas",
+        "text": "Himalayas is home to the Mount Everest."
+      }
+    ]
+  },
+  {
+    "qid": "hp31",
+    "difficulty": "medium",
+    "question": "Where is the Sahara Desert located, which is known as the largest hot desert in the world?",
+    "gold_answer": "Africa",
+    "context": [
+      {
+        "title": "Sahara Desert",
+        "text": "The Sahara Desert is largest hot desert in the world."
+      },
+      {
+        "title": "Africa",
+        "text": "Africa is home to the Sahara Desert."
+      }
+    ]
+  },
+  {
+    "qid": "hp32",
+    "difficulty": "medium",
+    "question": "Where is the The Great Wall of China located, which is known as the longest man-made structure?",
+    "gold_answer": "China",
+    "context": [
+      {
+        "title": "The Great Wall of China",
+        "text": "The The Great Wall of China is longest man-made structure."
+      },
+      {
+        "title": "China",
+        "text": "China is home to the The Great Wall of China."
+      }
+    ]
+  },
+  {
+    "qid": "hp33",
+    "difficulty": "medium",
+    "question": "Where is the Statue of Liberty located, which is known as the gift from France to the United States?",
+    "gold_answer": "New York",
+    "context": [
+      {
+        "title": "Statue of Liberty",
+        "text": "The Statue of Liberty is gift from France to the United States."
+      },
+      {
+        "title": "New York",
+        "text": "New York is home to the Statue of Liberty."
+      }
+    ]
+  },
+  {
+    "qid": "hp34",
+    "difficulty": "medium",
+    "question": "Where is the Colosseum located, which is known as the largest ancient amphitheatre ever built?",
+    "gold_answer": "Rome",
+    "context": [
+      {
+        "title": "Colosseum",
+        "text": "The Colosseum is largest ancient amphitheatre ever built."
+      },
+      {
+        "title": "Rome",
+        "text": "Rome is home to the Colosseum."
+      }
+    ]
+  },
+  {
+    "qid": "hp35",
+    "difficulty": "medium",
+    "question": "Where is the Taj Mahal located, which is known as the white marble mausoleum on the south bank of the Yamuna river?",
+    "gold_answer": "India",
+    "context": [
+      {
+        "title": "Taj Mahal",
+        "text": "The Taj Mahal is white marble mausoleum on the south bank of the Yamuna river."
+      },
+      {
+        "title": "India",
+        "text": "India is home to the Taj Mahal."
+      }
+    ]
+  },
+  {
+    "qid": "hp36",
+    "difficulty": "medium",
+    "question": "Where is the Angkor Wat located, which is known as the largest religious monument in the world?",
+    "gold_answer": "Cambodia",
+    "context": [
+      {
+        "title": "Angkor Wat",
+        "text": "The Angkor Wat is largest religious monument in the world."
+      },
+      {
+        "title": "Cambodia",
+        "text": "Cambodia is home to the Angkor Wat."
+      }
+    ]
+  },
+  {
+    "qid": "hp37",
+    "difficulty": "medium",
+    "question": "Where is the Machu Picchu located, which is known as the Incan citadel set high in the Andes Mountains?",
+    "gold_answer": "Peru",
+    "context": [
+      {
+        "title": "Machu Picchu",
+        "text": "The Machu Picchu is Incan citadel set high in the Andes Mountains."
+      },
+      {
+        "title": "Peru",
+        "text": "Peru is home to the Machu Picchu."
+      }
+    ]
+  },
+  {
+    "qid": "hp38",
+    "difficulty": "medium",
+    "question": "Where is the Big Ben located, which is known as the nickname for the Great Bell of the striking clock at the north end of the Palace of Westminster?",
+    "gold_answer": "London",
+    "context": [
+      {
+        "title": "Big Ben",
+        "text": "The Big Ben is nickname for the Great Bell of the striking clock at the north end of the Palace of Westminster."
+      },
+      {
+        "title": "London",
+        "text": "London is home to the Big Ben."
+      }
+    ]
+  },
+  {
+    "qid": "hp39",
+    "difficulty": "medium",
+    "question": "Where is the Golden Gate Bridge located, which is known as the suspension bridge spanning the Golden Gate?",
+    "gold_answer": "San Francisco",
+    "context": [
+      {
+        "title": "Golden Gate Bridge",
+        "text": "The Golden Gate Bridge is suspension bridge spanning the Golden Gate."
+      },
+      {
+        "title": "San Francisco",
+        "text": "San Francisco is home to the Golden Gate Bridge."
+      }
+    ]
+  },
+  {
+    "qid": "hp40",
+    "difficulty": "medium",
+    "question": "Where is the Sydney Opera House located, which is known as the multi-venue performing arts centre in Sydney?",
+    "gold_answer": "Australia",
+    "context": [
+      {
+        "title": "Sydney Opera House",
+        "text": "The Sydney Opera House is multi-venue performing arts centre in Sydney."
+      },
+      {
+        "title": "Australia",
+        "text": "Australia is home to the Sydney Opera House."
+      }
+    ]
+  },
+  {
+    "qid": "hp41",
+    "difficulty": "medium",
+    "question": "Where is the Burj Khalifa located, which is known as the tallest building in the world?",
+    "gold_answer": "Dubai",
+    "context": [
+      {
+        "title": "Burj Khalifa",
+        "text": "The Burj Khalifa is tallest building in the world."
+      },
+      {
+        "title": "Dubai",
+        "text": "Dubai is home to the Burj Khalifa."
+      }
+    ]
+  },
+  {
+    "qid": "hp42",
+    "difficulty": "medium",
+    "question": "Where is the Grand Canyon located, which is known as the steep-sided canyon carved by the Colorado River?",
+    "gold_answer": "Arizona",
+    "context": [
+      {
+        "title": "Grand Canyon",
+        "text": "The Grand Canyon is steep-sided canyon carved by the Colorado River."
+      },
+      {
+        "title": "Arizona",
+        "text": "Arizona is home to the Grand Canyon."
+      }
+    ]
+  },
+  {
+    "qid": "hp43",
+    "difficulty": "medium",
+    "question": "Where is the Victoria Falls located, which is known as the waterfall on the Zambezi River in southern Africa?",
+    "gold_answer": "Zambia and Zimbabwe",
+    "context": [
+      {
+        "title": "Victoria Falls",
+        "text": "The Victoria Falls is waterfall on the Zambezi River in southern Africa."
+      },
+      {
+        "title": "Zambia and Zimbabwe",
+        "text": "Zambia and Zimbabwe is home to the Victoria Falls."
+      }
+    ]
+  },
+  {
+    "qid": "hp44",
+    "difficulty": "medium",
+    "question": "Where is the Niagara Falls located, which is known as the group of three waterfalls at the southern end of Niagara Gorge?",
+    "gold_answer": "Canada and USA",
+    "context": [
+      {
+        "title": "Niagara Falls",
+        "text": "The Niagara Falls is group of three waterfalls at the southern end of Niagara Gorge."
+      },
+      {
+        "title": "Canada and USA",
+        "text": "Canada and USA is home to the Niagara Falls."
+      }
+    ]
+  },
+  {
+    "qid": "hp45",
+    "difficulty": "medium",
+    "question": "Where is the Dead Sea located, which is known as the salt lake bordered by Jordan to the east and Israel and the West Bank to the west?",
+    "gold_answer": "Jordan and Israel",
+    "context": [
+      {
+        "title": "Dead Sea",
+        "text": "The Dead Sea is salt lake bordered by Jordan to the east and Israel and the West Bank to the west."
+      },
+      {
+        "title": "Jordan and Israel",
+        "text": "Jordan and Israel is home to the Dead Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hp46",
+    "difficulty": "medium",
+    "question": "Where is the Mount Fuji located, which is known as the highest mountain in Japan?",
+    "gold_answer": "Japan",
+    "context": [
+      {
+        "title": "Mount Fuji",
+        "text": "The Mount Fuji is highest mountain in Japan."
+      },
+      {
+        "title": "Japan",
+        "text": "Japan is home to the Mount Fuji."
+      }
+    ]
+  },
+  {
+    "qid": "hp47",
+    "difficulty": "medium",
+    "question": "Where is the Table Mountain located, which is known as the flat-topped mountain forming a prominent landmark overlooking the city of Cape Town?",
+    "gold_answer": "South Africa",
+    "context": [
+      {
+        "title": "Table Mountain",
+        "text": "The Table Mountain is flat-topped mountain forming a prominent landmark overlooking the city of Cape Town."
+      },
+      {
+        "title": "South Africa",
+        "text": "South Africa is home to the Table Mountain."
+      }
+    ]
+  },
+  {
+    "qid": "hp48",
+    "difficulty": "medium",
+    "question": "Where is the Gal\u00e1pagos Islands located, which is known as the archipelago of volcanic islands in the Pacific Ocean?",
+    "gold_answer": "Ecuador",
+    "context": [
+      {
+        "title": "Gal\u00e1pagos Islands",
+        "text": "The Gal\u00e1pagos Islands is archipelago of volcanic islands in the Pacific Ocean."
+      },
+      {
+        "title": "Ecuador",
+        "text": "Ecuador is home to the Gal\u00e1pagos Islands."
+      }
+    ]
+  },
+  {
+    "qid": "hp49",
+    "difficulty": "medium",
+    "question": "Where is the Yellowstone National Park located, which is known as the first national park in the world?",
+    "gold_answer": "USA",
+    "context": [
+      {
+        "title": "Yellowstone National Park",
+        "text": "The Yellowstone National Park is first national park in the world."
+      },
+      {
+        "title": "USA",
+        "text": "USA is home to the Yellowstone National Park."
+      }
+    ]
+  },
+  {
+    "qid": "hp50",
+    "difficulty": "medium",
+    "question": "Where is the Petra located, which is known as the historical and archaeological city in southern Jordan?",
+    "gold_answer": "Jordan",
+    "context": [
+      {
+        "title": "Petra",
+        "text": "The Petra is historical and archaeological city in southern Jordan."
+      },
+      {
+        "title": "Jordan",
+        "text": "Jordan is home to the Petra."
+      }
+    ]
+  },
+  {
+    "qid": "hp51",
+    "difficulty": "medium",
+    "question": "Where is the Christ the Redeemer located, which is known as the Art Deco statue of Jesus Christ in Rio de Janeiro?",
+    "gold_answer": "Brazil",
+    "context": [
+      {
+        "title": "Christ the Redeemer",
+        "text": "The Christ the Redeemer is Art Deco statue of Jesus Christ in Rio de Janeiro."
+      },
+      {
+        "title": "Brazil",
+        "text": "Brazil is home to the Christ the Redeemer."
+      }
+    ]
+  },
+  {
+    "qid": "hp52",
+    "difficulty": "medium",
+    "question": "Where is the Stonehenge located, which is known as the prehistoric monument in Wiltshire?",
+    "gold_answer": "England",
+    "context": [
+      {
+        "title": "Stonehenge",
+        "text": "The Stonehenge is prehistoric monument in Wiltshire."
+      },
+      {
+        "title": "England",
+        "text": "England is home to the Stonehenge."
+      }
+    ]
+  },
+  {
+    "qid": "hp53",
+    "difficulty": "medium",
+    "question": "Where is the Acropolis of Athens located, which is known as the ancient citadel located on a rocky outcrop above the city of Athens?",
+    "gold_answer": "Greece",
+    "context": [
+      {
+        "title": "Acropolis of Athens",
+        "text": "The Acropolis of Athens is ancient citadel located on a rocky outcrop above the city of Athens."
+      },
+      {
+        "title": "Greece",
+        "text": "Greece is home to the Acropolis of Athens."
+      }
+    ]
+  },
+  {
+    "qid": "hp54",
+    "difficulty": "medium",
+    "question": "Where is the Alhambra located, which is known as the palace and fortress complex located in Granada?",
+    "gold_answer": "Spain",
+    "context": [
+      {
+        "title": "Alhambra",
+        "text": "The Alhambra is palace and fortress complex located in Granada."
+      },
+      {
+        "title": "Spain",
+        "text": "Spain is home to the Alhambra."
+      }
+    ]
+  },
+  {
+    "qid": "hp55",
+    "difficulty": "medium",
+    "question": "Where is the Chichen Itza located, which is known as the large pre-Columbian city built by the Maya people?",
+    "gold_answer": "Mexico",
+    "context": [
+      {
+        "title": "Chichen Itza",
+        "text": "The Chichen Itza is large pre-Columbian city built by the Maya people."
+      },
+      {
+        "title": "Mexico",
+        "text": "Mexico is home to the Chichen Itza."
+      }
+    ]
+  },
+  {
+    "qid": "hp56",
+    "difficulty": "medium",
+    "question": "Where is the Forbidden City located, which is known as the palace complex in central Beijing?",
+    "gold_answer": "China",
+    "context": [
+      {
+        "title": "Forbidden City",
+        "text": "The Forbidden City is palace complex in central Beijing."
+      },
+      {
+        "title": "China",
+        "text": "China is home to the Forbidden City."
+      }
+    ]
+  },
+  {
+    "qid": "hp57",
+    "difficulty": "medium",
+    "question": "Where is the Louvre Museum located, which is known as the world's largest art museum and a historic monument in Paris?",
+    "gold_answer": "Paris",
+    "context": [
+      {
+        "title": "Louvre Museum",
+        "text": "The Louvre Museum is world's largest art museum and a historic monument in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is home to the Louvre Museum."
+      }
+    ]
+  },
+  {
+    "qid": "hp58",
+    "difficulty": "medium",
+    "question": "Where is the Vatican Museums located, which is known as the public art and sculpture museums in the Vatican City?",
+    "gold_answer": "Vatican City",
+    "context": [
+      {
+        "title": "Vatican Museums",
+        "text": "The Vatican Museums is public art and sculpture museums in the Vatican City."
+      },
+      {
+        "title": "Vatican City",
+        "text": "Vatican City is home to the Vatican Museums."
+      }
+    ]
+  },
+  {
+    "qid": "hp59",
+    "difficulty": "medium",
+    "question": "Where is the British Museum located, which is known as the public institution dedicated to human history, art and culture?",
+    "gold_answer": "London",
+    "context": [
+      {
+        "title": "British Museum",
+        "text": "The British Museum is public institution dedicated to human history, art and culture."
+      },
+      {
+        "title": "London",
+        "text": "London is home to the British Museum."
+      }
+    ]
+  },
+  {
+    "qid": "hp60",
+    "difficulty": "medium",
+    "question": "Where is the Metropolitan Museum of Art located, which is known as the largest art museum in the United States?",
+    "gold_answer": "New York",
+    "context": [
+      {
+        "title": "Metropolitan Museum of Art",
+        "text": "The Metropolitan Museum of Art is largest art museum in the United States."
+      },
+      {
+        "title": "New York",
+        "text": "New York is home to the Metropolitan Museum of Art."
+      }
+    ]
+  },
+  {
+    "qid": "hp61",
+    "difficulty": "medium",
+    "question": "Where is the Hermitage Museum located, which is known as the museum of art and culture in Saint Petersburg?",
+    "gold_answer": "Saint Petersburg",
+    "context": [
+      {
+        "title": "Hermitage Museum",
+        "text": "The Hermitage Museum is museum of art and culture in Saint Petersburg."
+      },
+      {
+        "title": "Saint Petersburg",
+        "text": "Saint Petersburg is home to the Hermitage Museum."
+      }
+    ]
+  },
+  {
+    "qid": "hp62",
+    "difficulty": "medium",
+    "question": "Where is the Uffizi Gallery located, which is known as the prominent art museum located adjacent to the Piazza della Signoria in the Historic Centre of Florence?",
+    "gold_answer": "Florence",
+    "context": [
+      {
+        "title": "Uffizi Gallery",
+        "text": "The Uffizi Gallery is prominent art museum located adjacent to the Piazza della Signoria in the Historic Centre of Florence."
+      },
+      {
+        "title": "Florence",
+        "text": "Florence is home to the Uffizi Gallery."
+      }
+    ]
+  },
+  {
+    "qid": "hp63",
+    "difficulty": "medium",
+    "question": "Where is the Prado Museum located, which is known as the main Spanish national art museum?",
+    "gold_answer": "Madrid",
+    "context": [
+      {
+        "title": "Prado Museum",
+        "text": "The Prado Museum is main Spanish national art museum."
+      },
+      {
+        "title": "Madrid",
+        "text": "Madrid is home to the Prado Museum."
+      }
+    ]
+  },
+  {
+    "qid": "hp64",
+    "difficulty": "medium",
+    "question": "Where is the Rijksmuseum located, which is known as the Dutch national museum dedicated to arts and history in Amsterdam?",
+    "gold_answer": "Amsterdam",
+    "context": [
+      {
+        "title": "Rijksmuseum",
+        "text": "The Rijksmuseum is Dutch national museum dedicated to arts and history in Amsterdam."
+      },
+      {
+        "title": "Amsterdam",
+        "text": "Amsterdam is home to the Rijksmuseum."
+      }
+    ]
+  },
+  {
+    "qid": "hp65",
+    "difficulty": "medium",
+    "question": "Where is the National Gallery located, which is known as the art museum in Trafalgar Square in the City of Westminster?",
+    "gold_answer": "London",
+    "context": [
+      {
+        "title": "National Gallery",
+        "text": "The National Gallery is art museum in Trafalgar Square in the City of Westminster."
+      },
+      {
+        "title": "London",
+        "text": "London is home to the National Gallery."
+      }
+    ]
+  },
+  {
+    "qid": "hp66",
+    "difficulty": "medium",
+    "question": "Where is the Smithsonian Institution located, which is known as the group of museums and research centers administered by the Government of the United States?",
+    "gold_answer": "USA",
+    "context": [
+      {
+        "title": "Smithsonian Institution",
+        "text": "The Smithsonian Institution is group of museums and research centers administered by the Government of the United States."
+      },
+      {
+        "title": "USA",
+        "text": "USA is home to the Smithsonian Institution."
+      }
+    ]
+  },
+  {
+    "qid": "hp67",
+    "difficulty": "medium",
+    "question": "Where is the Ayers Rock located, which is known as the large sandstone rock formation in the southern part of the Northern Territory?",
+    "gold_answer": "Australia",
+    "context": [
+      {
+        "title": "Ayers Rock",
+        "text": "The Ayers Rock is large sandstone rock formation in the southern part of the Northern Territory."
+      },
+      {
+        "title": "Australia",
+        "text": "Australia is home to the Ayers Rock."
+      }
+    ]
+  },
+  {
+    "qid": "hp68",
+    "difficulty": "medium",
+    "question": "Where is the Panama Canal located, which is known as the artificial 82 km waterway in Panama that connects the Atlantic Ocean with the Pacific Ocean?",
+    "gold_answer": "Panama",
+    "context": [
+      {
+        "title": "Panama Canal",
+        "text": "The Panama Canal is artificial 82 km waterway in Panama that connects the Atlantic Ocean with the Pacific Ocean."
+      },
+      {
+        "title": "Panama",
+        "text": "Panama is home to the Panama Canal."
+      }
+    ]
+  },
+  {
+    "qid": "hp69",
+    "difficulty": "medium",
+    "question": "Where is the Suez Canal located, which is known as the artificial sea-level waterway in Egypt, connecting the Mediterranean Sea to the Red Sea?",
+    "gold_answer": "Egypt",
+    "context": [
+      {
+        "title": "Suez Canal",
+        "text": "The Suez Canal is artificial sea-level waterway in Egypt, connecting the Mediterranean Sea to the Red Sea."
+      },
+      {
+        "title": "Egypt",
+        "text": "Egypt is home to the Suez Canal."
+      }
+    ]
+  },
+  {
+    "qid": "hp70",
+    "difficulty": "medium",
+    "question": "Where is the Silicon Valley located, which is known as the region in the southern San Francisco Bay Area that is a global center for high technology and innovation?",
+    "gold_answer": "California",
+    "context": [
+      {
+        "title": "Silicon Valley",
+        "text": "The Silicon Valley is region in the southern San Francisco Bay Area that is a global center for high technology and innovation."
+      },
+      {
+        "title": "California",
+        "text": "California is home to the Silicon Valley."
+      }
+    ]
+  },
+  {
+    "qid": "hp71",
+    "difficulty": "medium",
+    "question": "Where is the Wall Street located, which is known as the street in the Financial District of Lower Manhattan?",
+    "gold_answer": "New York",
+    "context": [
+      {
+        "title": "Wall Street",
+        "text": "The Wall Street is street in the Financial District of Lower Manhattan."
+      },
+      {
+        "title": "New York",
+        "text": "New York is home to the Wall Street."
+      }
+    ]
+  },
+  {
+    "qid": "hp72",
+    "difficulty": "medium",
+    "question": "Where is the Hollywood located, which is known as the neighborhood in the central region of Los Angeles, California?",
+    "gold_answer": "Los Angeles",
+    "context": [
+      {
+        "title": "Hollywood",
+        "text": "The Hollywood is neighborhood in the central region of Los Angeles, California."
+      },
+      {
+        "title": "Los Angeles",
+        "text": "Los Angeles is home to the Hollywood."
+      }
+    ]
+  },
+  {
+    "qid": "hp73",
+    "difficulty": "medium",
+    "question": "Where is the Broadway located, which is known as the road in the U.S. state of New York, known as the heart of the American commercial theatrical industry?",
+    "gold_answer": "New York",
+    "context": [
+      {
+        "title": "Broadway",
+        "text": "The Broadway is road in the U.S. state of New York, known as the heart of the American commercial theatrical industry."
+      },
+      {
+        "title": "New York",
+        "text": "New York is home to the Broadway."
+      }
+    ]
+  },
+  {
+    "qid": "hp74",
+    "difficulty": "medium",
+    "question": "Where is the Times Square located, which is known as the major commercial intersection, tourist destination, entertainment center, and neighborhood in Midtown Manhattan?",
+    "gold_answer": "New York",
+    "context": [
+      {
+        "title": "Times Square",
+        "text": "The Times Square is major commercial intersection, tourist destination, entertainment center, and neighborhood in Midtown Manhattan."
+      },
+      {
+        "title": "New York",
+        "text": "New York is home to the Times Square."
+      }
+    ]
+  },
+  {
+    "qid": "hp75",
+    "difficulty": "medium",
+    "question": "Where is the Central Park located, which is known as the urban park in New York City?",
+    "gold_answer": "New York",
+    "context": [
+      {
+        "title": "Central Park",
+        "text": "The Central Park is urban park in New York City."
+      },
+      {
+        "title": "New York",
+        "text": "New York is home to the Central Park."
+      }
+    ]
+  },
+  {
+    "qid": "hp76",
+    "difficulty": "medium",
+    "question": "Where is the Buckingham Palace located, which is known as the London residence and administrative headquarters of the monarch of the United Kingdom?",
+    "gold_answer": "London",
+    "context": [
+      {
+        "title": "Buckingham Palace",
+        "text": "The Buckingham Palace is London residence and administrative headquarters of the monarch of the United Kingdom."
+      },
+      {
+        "title": "London",
+        "text": "London is home to the Buckingham Palace."
+      }
+    ]
+  },
+  {
+    "qid": "hp77",
+    "difficulty": "medium",
+    "question": "Where is the White House located, which is known as the official residence and workplace of the president of the United States?",
+    "gold_answer": "Washington, D.C.",
+    "context": [
+      {
+        "title": "White House",
+        "text": "The White House is official residence and workplace of the president of the United States."
+      },
+      {
+        "title": "Washington, D.C.",
+        "text": "Washington, D.C. is home to the White House."
+      }
+    ]
+  },
+  {
+    "qid": "hp78",
+    "difficulty": "medium",
+    "question": "Where is the Kremlin located, which is known as the fortified complex in the center of Moscow, overlooking the Moskva River?",
+    "gold_answer": "Moscow",
+    "context": [
+      {
+        "title": "Kremlin",
+        "text": "The Kremlin is fortified complex in the center of Moscow, overlooking the Moskva River."
+      },
+      {
+        "title": "Moscow",
+        "text": "Moscow is home to the Kremlin."
+      }
+    ]
+  },
+  {
+    "qid": "hp79",
+    "difficulty": "medium",
+    "question": "Where is the Pentagon located, which is known as the headquarters of the United States Department of Defense?",
+    "gold_answer": "Virginia",
+    "context": [
+      {
+        "title": "Pentagon",
+        "text": "The Pentagon is headquarters of the United States Department of Defense."
+      },
+      {
+        "title": "Virginia",
+        "text": "Virginia is home to the Pentagon."
+      }
+    ]
+  },
+  {
+    "qid": "hp80",
+    "difficulty": "medium",
+    "question": "Where is the NASA located, which is known as the independent agency of the U.S. federal government responsible for the civil space program, as well as aeronautics and space research?",
+    "gold_answer": "USA",
+    "context": [
+      {
+        "title": "NASA",
+        "text": "The NASA is independent agency of the U.S. federal government responsible for the civil space program, as well as aeronautics and space research."
+      },
+      {
+        "title": "USA",
+        "text": "USA is home to the NASA."
+      }
+    ]
+  },
+  {
+    "qid": "hp81",
+    "difficulty": "medium",
+    "question": "Where is the Interpol located, which is known as the international organization that facilitates worldwide police cooperation and crime control?",
+    "gold_answer": "International",
+    "context": [
+      {
+        "title": "Interpol",
+        "text": "The Interpol is international organization that facilitates worldwide police cooperation and crime control."
+      },
+      {
+        "title": "International",
+        "text": "International is home to the Interpol."
+      }
+    ]
+  },
+  {
+    "qid": "hp82",
+    "difficulty": "medium",
+    "question": "Where is the WHO located, which is known as the specialized agency of the United Nations responsible for international public health?",
+    "gold_answer": "International",
+    "context": [
+      {
+        "title": "WHO",
+        "text": "The WHO is specialized agency of the United Nations responsible for international public health."
+      },
+      {
+        "title": "International",
+        "text": "International is home to the WHO."
+      }
+    ]
+  },
+  {
+    "qid": "hp83",
+    "difficulty": "medium",
+    "question": "Where is the UNESCO located, which is known as the specialized agency of the United Nations aimed at promoting world peace and security through international cooperation in education, the sciences, and culture?",
+    "gold_answer": "International",
+    "context": [
+      {
+        "title": "UNESCO",
+        "text": "The UNESCO is specialized agency of the United Nations aimed at promoting world peace and security through international cooperation in education, the sciences, and culture."
+      },
+      {
+        "title": "International",
+        "text": "International is home to the UNESCO."
+      }
+    ]
+  },
+  {
+    "qid": "hp84",
+    "difficulty": "medium",
+    "question": "Where is the UNICEF located, which is known as the agency of the United Nations responsible for providing humanitarian and developmental aid to children worldwide?",
+    "gold_answer": "International",
+    "context": [
+      {
+        "title": "UNICEF",
+        "text": "The UNICEF is agency of the United Nations responsible for providing humanitarian and developmental aid to children worldwide."
+      },
+      {
+        "title": "International",
+        "text": "International is home to the UNICEF."
+      }
+    ]
+  },
+  {
+    "qid": "hp85",
+    "difficulty": "medium",
+    "question": "Where is the Red Cross located, which is known as the humanitarian network that helps people affected by disasters and conflicts?",
+    "gold_answer": "International",
+    "context": [
+      {
+        "title": "Red Cross",
+        "text": "The Red Cross is humanitarian network that helps people affected by disasters and conflicts."
+      },
+      {
+        "title": "International",
+        "text": "International is home to the Red Cross."
+      }
+    ]
+  },
+  {
+    "qid": "hp86",
+    "difficulty": "medium",
+    "question": "Where is the Google located, which is known as the American multinational technology company that specializes in Internet-related services and products?",
+    "gold_answer": "California",
+    "context": [
+      {
+        "title": "Google",
+        "text": "The Google is American multinational technology company that specializes in Internet-related services and products."
+      },
+      {
+        "title": "California",
+        "text": "California is home to the Google."
+      }
+    ]
+  },
+  {
+    "qid": "hp87",
+    "difficulty": "medium",
+    "question": "Where is the Apple located, which is known as the American multinational technology company that specializes in consumer electronics, computer software, and online services?",
+    "gold_answer": "California",
+    "context": [
+      {
+        "title": "Apple",
+        "text": "The Apple is American multinational technology company that specializes in consumer electronics, computer software, and online services."
+      },
+      {
+        "title": "California",
+        "text": "California is home to the Apple."
+      }
+    ]
+  },
+  {
+    "qid": "hp88",
+    "difficulty": "medium",
+    "question": "Where is the Microsoft located, which is known as the American multinational technology company which produces computer software, consumer electronics, personal computers, and related services?",
+    "gold_answer": "Washington",
+    "context": [
+      {
+        "title": "Microsoft",
+        "text": "The Microsoft is American multinational technology company which produces computer software, consumer electronics, personal computers, and related services."
+      },
+      {
+        "title": "Washington",
+        "text": "Washington is home to the Microsoft."
+      }
+    ]
+  },
+  {
+    "qid": "hp89",
+    "difficulty": "medium",
+    "question": "Where is the Amazon located, which is known as the American multinational technology company which focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence?",
+    "gold_answer": "Washington",
+    "context": [
+      {
+        "title": "Amazon",
+        "text": "The Amazon is American multinational technology company which focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence."
+      },
+      {
+        "title": "Washington",
+        "text": "Washington is home to the Amazon."
+      }
+    ]
+  },
+  {
+    "qid": "hp90",
+    "difficulty": "medium",
+    "question": "Where is the Facebook located, which is known as the American online social media and social networking service?",
+    "gold_answer": "California",
+    "context": [
+      {
+        "title": "Facebook",
+        "text": "The Facebook is American online social media and social networking service."
+      },
+      {
+        "title": "California",
+        "text": "California is home to the Facebook."
+      }
+    ]
+  },
+  {
+    "qid": "hp91",
+    "difficulty": "medium",
+    "question": "Where is the Tesla located, which is known as the American electric vehicle and clean energy company?",
+    "gold_answer": "Texas",
+    "context": [
+      {
+        "title": "Tesla",
+        "text": "The Tesla is American electric vehicle and clean energy company."
+      },
+      {
+        "title": "Texas",
+        "text": "Texas is home to the Tesla."
+      }
+    ]
+  },
+  {
+    "qid": "hp92",
+    "difficulty": "medium",
+    "question": "Where is the SpaceX located, which is known as the American aerospace manufacturer and space transportation services company?",
+    "gold_answer": "California",
+    "context": [
+      {
+        "title": "SpaceX",
+        "text": "The SpaceX is American aerospace manufacturer and space transportation services company."
+      },
+      {
+        "title": "California",
+        "text": "California is home to the SpaceX."
+      }
+    ]
+  },
+  {
+    "qid": "hp93",
+    "difficulty": "medium",
+    "question": "Where is the BMW located, which is known as the German multinational company which produces luxury vehicles and motorcycles?",
+    "gold_answer": "Germany",
+    "context": [
+      {
+        "title": "BMW",
+        "text": "The BMW is German multinational company which produces luxury vehicles and motorcycles."
+      },
+      {
+        "title": "Germany",
+        "text": "Germany is home to the BMW."
+      }
+    ]
+  },
+  {
+    "qid": "hp94",
+    "difficulty": "medium",
+    "question": "Where is the Toyota located, which is known as the Japanese multinational automotive manufacturer?",
+    "gold_answer": "Japan",
+    "context": [
+      {
+        "title": "Toyota",
+        "text": "The Toyota is Japanese multinational automotive manufacturer."
+      },
+      {
+        "title": "Japan",
+        "text": "Japan is home to the Toyota."
+      }
+    ]
+  },
+  {
+    "qid": "hp95",
+    "difficulty": "medium",
+    "question": "Where is the Samsung located, which is known as the South Korean multinational conglomerate?",
+    "gold_answer": "South Korea",
+    "context": [
+      {
+        "title": "Samsung",
+        "text": "The Samsung is South Korean multinational conglomerate."
+      },
+      {
+        "title": "South Korea",
+        "text": "South Korea is home to the Samsung."
+      }
+    ]
+  },
+  {
+    "qid": "hp96",
+    "difficulty": "medium",
+    "question": "Where is the Nintendo located, which is known as the Japanese multinational video game company?",
+    "gold_answer": "Japan",
+    "context": [
+      {
+        "title": "Nintendo",
+        "text": "The Nintendo is Japanese multinational video game company."
+      },
+      {
+        "title": "Japan",
+        "text": "Japan is home to the Nintendo."
+      }
+    ]
+  },
+  {
+    "qid": "hp97",
+    "difficulty": "medium",
+    "question": "Where is the Sony located, which is known as the Japanese multinational conglomerate corporation?",
+    "gold_answer": "Japan",
+    "context": [
+      {
+        "title": "Sony",
+        "text": "The Sony is Japanese multinational conglomerate corporation."
+      },
+      {
+        "title": "Japan",
+        "text": "Japan is home to the Sony."
+      }
+    ]
+  },
+  {
+    "qid": "hp98",
+    "difficulty": "medium",
+    "question": "Where is the Disney located, which is known as the American multinational mass media and entertainment conglomerate?",
+    "gold_answer": "California",
+    "context": [
+      {
+        "title": "Disney",
+        "text": "The Disney is American multinational mass media and entertainment conglomerate."
+      },
+      {
+        "title": "California",
+        "text": "California is home to the Disney."
+      }
+    ]
+  },
+  {
+    "qid": "hp99",
+    "difficulty": "medium",
+    "question": "Which location is known for the Great Sphinx of Giza, described as the mythical creature with the head of a human and the body of a lion?",
+    "gold_answer": "Egypt",
+    "context": [
+      {
+        "title": "Great Sphinx of Giza",
+        "text": "The Great Sphinx of Giza is mythical creature with the head of a human and the body of a lion."
+      },
+      {
+        "title": "Egypt",
+        "text": "Egypt is where the Great Sphinx of Giza can be found."
+      }
+    ]
+  },
+  {
+    "qid": "hp100",
+    "difficulty": "medium",
+    "question": "Which location is known for the Pompeii, described as the vast archaeological site in southern Italy\u2019s Campania region?",
+    "gold_answer": "Italy",
+    "context": [
+      {
+        "title": "Pompeii",
+        "text": "The Pompeii is vast archaeological site in southern Italy\u2019s Campania region."
+      },
+      {
+        "title": "Italy",
+        "text": "Italy is where the Pompeii can be found."
+      }
+    ]
+  }
+]

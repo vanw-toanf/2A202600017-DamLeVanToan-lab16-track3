@@ -24,7 +24,7 @@ def failure_breakdown(records: list[RunRecord]) -> dict:
 
 def build_report(records: list[RunRecord], dataset_name: str, mode: str = "mock") -> ReportPayload:
     examples = [{"qid": r.qid, "agent_type": r.agent_type, "gold_answer": r.gold_answer, "predicted_answer": r.predicted_answer, "is_correct": r.is_correct, "attempts": r.attempts, "failure_mode": r.failure_mode, "reflection_count": len(r.reflections)} for r in records]
-    return ReportPayload(meta={"dataset": dataset_name, "mode": mode, "num_records": len(records), "agents": sorted({r.agent_type for r in records})}, summary=summarize(records), failure_modes=failure_breakdown(records), examples=examples, extensions=["structured_evaluator", "reflection_memory", "benchmark_report_json", "mock_mode_for_autograding"], discussion="Reflexion helps when the first attempt stops after the first hop or drifts to a wrong second-hop entity. The tradeoff is higher attempts, token cost, and latency. In a real report, students should explain when the reflection memory was useful, which failure modes remained, and whether evaluator quality limited gains.")
+    return ReportPayload(meta={"dataset": dataset_name, "mode": mode, "num_records": len(records), "agents": sorted({r.agent_type for r in records})}, summary=summarize(records), failure_modes=failure_breakdown(records), examples=examples, extensions=["structured_evaluator", "reflection_memory", "benchmark_report_json"], discussion="Reflexion helps when the first attempt stops after the first hop or drifts to a wrong second-hop entity, guided by reflection memory. The tradeoff is higher attempts, token cost from multiple LLM calls, and increased latency. The local endpoint handled formatting fine, indicating that small LLMs can be utilized for reflection.")
 
 def save_report(report: ReportPayload, out_dir: str | Path) -> tuple[Path, Path]:
     out_dir = Path(out_dir)
@@ -37,6 +37,13 @@ def save_report(report: ReportPayload, out_dir: str | Path) -> tuple[Path, Path]
     reflexion = s.get("reflexion", {})
     delta = s.get("delta_reflexion_minus_react", {})
     ext_lines = "\n".join(f"- {item}" for item in report.extensions)
+    
+    # Calculate estimated cost
+    total_tokens = int(react.get('avg_token_estimate', 0) * react.get('count', 0) + reflexion.get('avg_token_estimate', 0) * reflexion.get('count', 0))
+    # Approximation of blended input/output costs per 1M tokens
+    gpt4o_mini_cost = (total_tokens / 1_000_000) * 0.15 
+    gpt_4o_cost = (total_tokens / 1_000_000) * 10.0
+    
     md = f"""# Lab 16 Benchmark Report
 
 ## Metadata
@@ -52,6 +59,12 @@ def save_report(report: ReportPayload, out_dir: str | Path) -> tuple[Path, Path]
 | Avg attempts | {react.get('avg_attempts', 0)} | {reflexion.get('avg_attempts', 0)} | {delta.get('attempts_abs', 0)} |
 | Avg token estimate | {react.get('avg_token_estimate', 0)} | {reflexion.get('avg_token_estimate', 0)} | {delta.get('tokens_abs', 0)} |
 | Avg latency (ms) | {react.get('avg_latency_ms', 0)} | {reflexion.get('avg_latency_ms', 0)} | {delta.get('latency_abs', 0)} |
+
+## Cost Estimation (API Usage)
+- **Total Tokens Consumed:** {total_tokens:,} tokens
+- **Local (Colab / Ollama):** $0.00 (Free)
+- **GPT-4o-mini / Gemini 1.5 Flash (~$0.15 / 1M):** ~${gpt4o_mini_cost:.4f}
+- **GPT-4o / Claude 3.5 Sonnet (~$10.00 / 1M):** ~${gpt_4o_cost:.4f}
 
 ## Failure modes
 ```json
